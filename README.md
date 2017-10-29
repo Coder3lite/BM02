@@ -17,10 +17,10 @@
 ---
 ## Image 2
 ### A -> Input payment.
-### B -> Change will generate
-### C -> Click OK
+### B -> Change will generate.
+### C -> Click OK.
 ![Second Image](https://github.com/Coder3lite/BurgerMachine/blob/master/Images/image002.png)
 ---
 ## Image 3
-### After clicking "OK", Information and Gross will generate
+### After clicking "OK", Information and Gross will generate.
 ![Third Image](https://github.com/Coder3lite/BurgerMachine/blob/master/Images/image003.png)
