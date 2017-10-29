@@ -7,4 +7,5 @@
 * ARRAY
 * Exception Handling
 * Event Handling
-* Date and SimpleDateFormat
+* Date from java.util package
+* SimpleDateFormat from java.text package
