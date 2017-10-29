@@ -13,7 +13,6 @@ import javax.swing.JButton;
 import javax.swing.JTextArea;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-//nothing
 
 public class BurgerMachineProcess extends JFrame{
 
@@ -26,7 +25,6 @@ public class BurgerMachineProcess extends JFrame{
   private JButton btnok, btnclear;
 
   public BurgerMachineProcess(){
-
 
     super("Burger Machine");
     SecondaryProcess sp = new SecondaryProcess();
