@@ -9,3 +9,6 @@
 * Event Handling
 * Date from java.util package
 * SimpleDateFormat from java.text package
+
+---
+![First Image](https://github.com/Coder3lite/BurgerMachine/blob/master/Images/image001.png)
