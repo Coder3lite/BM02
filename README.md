@@ -14,3 +14,9 @@
 ### A -> Input the number of order.
 ### B -> Information and total will generate.
 ![First Image](https://github.com/Coder3lite/BurgerMachine/blob/master/Images/image001.png)
+---
+## Image 2
+### A -> Input payment.
+### B -> Change will generate
+### C -> Click OK
+![Second Image](https://github.com/Coder3lite/BurgerMachine/blob/master/Images/image002.png)
