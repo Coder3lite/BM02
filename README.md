@@ -12,7 +12,7 @@
 ---
 ## Image 1
 ### A -> Input the number of order.
-### B -> Information and total will generate.
+### B -> Information and Total will generate.
 ![First Image](https://github.com/Coder3lite/BurgerMachine/blob/master/Images/image001.png)
 ---
 ## Image 2
